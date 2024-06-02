@@ -16,9 +16,9 @@ At first, the number to be multiplied after round was fixed to 49, which led to 
 
 # Reference
 
-[1]Ducas L, Kiltz E, Lepoint T, et al. Crystals-dilithium: A lattice-based digital signature scheme[J]. IACR Transactions on Cryptographic Hardware and Embedded Systems, 2018: 238-268.
+[1] [Ducas L, Kiltz E, Lepoint T, et al. Crystals-dilithium: A lattice-based digital signature scheme[J]. IACR Transactions on Cryptographic Hardware and Embedded Systems, 2018: 238-268.](https://eprint.iacr.org/2017/633.pdf)
 
-[2]Ravi P, Jhanwar M P, Howe J, et al. Side-channel assisted existential forgery attack on Dilithium-A NIST PQC candidate[J]. Cryptology ePrint Archive, 2018.
+[2] [Ravi P, Jhanwar M P, Howe J, et al. Side-channel assisted existential forgery attack on Dilithium-A NIST PQC candidate[J]. Cryptology ePrint Archive, 2018.](https://eprint.iacr.org/2018/821.pdf)
 
 [3]https://pq-crystals.org/dilithium/
 
