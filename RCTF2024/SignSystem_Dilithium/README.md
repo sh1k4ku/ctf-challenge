@@ -12,7 +12,7 @@ When I wrote the exploit, I referred to [4] to introduce the c function in pytho
 
 # Unexpected solution
 
-At first, the number to be multiplied after round was fixed to 49, which led to an unexpected solution, that is, $\bold{z} = \bold{c} \cdot \bold{s_1} $mod 49 , at which point only the inverse is required to recover $\bold{s_1}$. We apologize for this mistake. In the revenge version, the number to be multiplied is randomly generated from [49,59], which also reduces the probability of a solution.
+At first, the number to be multiplied after round was fixed to 49, which led to an unexpected solution, that is, $\bold{z} = \bold{c} \cdot \bold{s_1}$ mod 49 , at which point only the inverse is required to recover $\bold{s_1}$. We apologize for this mistake. In the revenge version, the number to be multiplied is randomly generated from [49,59], which also reduces the probability of a solution.
 
 # Reference
 
