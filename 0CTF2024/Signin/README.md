@@ -1,0 +1,3 @@
+# Signin
+
+A `n x m` LWE instance has `n` secrets and `m` errors, usually we consider the primal lattice attack on low dimension LWE. In a algebraic view, we just need to get `n` errors to solve the system. This chall takes `np.base_repr(ord(SecureRandom.choice(ascii_lowercase)), 3)` to generate `e`, so every `e` with position % 5 == 0 is known, so we only need to solve `n-44 = 93` errors. Also, the tenary e's distribution is carefully constructed, we can multiply the inverse of 731 to get small `e`.
